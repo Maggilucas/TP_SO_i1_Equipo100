@@ -1,0 +1,7 @@
+maggi lucas ezequiel - alfa
+romina noemi calani cruz - beta
+emmanuel alarcon - gamma
+
+respuestas:
+a)si se ven los datos cargados de beta y gamma.
+b)si, los demas pueden ver cuando subo un archivo al repositorio.
