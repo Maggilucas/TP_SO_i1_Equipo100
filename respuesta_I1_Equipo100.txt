@@ -7,4 +7,5 @@ a)si se ven los datos cargados de beta y gamma.
 b)si, los demas pueden ver cuando subo un archivo al repositorio.
 c)Si
 d)Por WhatsApp y Meet
-e) A través de commits
+e)A través de commits y git Project
+
